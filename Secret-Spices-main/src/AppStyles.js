@@ -1,0 +1,27 @@
+export default AppStyles = {
+    primaryColor: '#FEC93B',
+    secondaryColor: '#212134',
+    primaryTextColor: '#32324D',
+    secondaryTextColor: '#8E8EA9',
+    invalidTextIndicatorColor: '#B82626',
+    primaryBackgroundColor: '#F5F5F5',
+    secondaryBackgroundColor: '#FFF',
+    primaryFontFamilyBold: 'DMSans_Bold',
+    primaryFontFamilyMedium: 'DMSans_Medium',
+    primaryFontFamilyRegular: 'DMSans_Regular',
+    secondaryFontFamilyExtraBold: 'Mulish_ExtraBold',
+    secondaryFontFamilyBold: 'Mulish_Bold',
+    secondaryFontFamilySemiBold: 'Mulish_SemiBold',
+    secondaryFontFamilyMedium: 'Mulish_Medium',
+    secondaryFontFamilyRegular: 'Mulish_Regular',
+    secondaryFontFamilyLight: 'Mulish_Light',
+    secondaryFontFamilyExtraLight: 'Mulish_ExtraLight',
+    /*extraFontBold: 'Poppins-Bold',
+    extraFontExtraBold: 'Poppins-ExtraBold',
+    extraFontExtraLight: 'Poppins-ExtraLight',
+    extraFontLight: 'Poppins-Light',
+    extraFontMedium: 'Poppins-Medium',*/
+    poppinsFontRegular: 'Poppins_Regular',
+    /*extraFontSemiBold: 'Poppins-SemiBold',
+    extraFontThin: 'Poppins-Thin',*/
+}
